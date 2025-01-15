@@ -2,6 +2,10 @@
 
 I am currently doing an online internship at **CodeAlpha** for one month, where I have been assigned a series of exciting tasks to work on. Below are the tasks I am completing during my internship:
 
+<div style="text-align: center;">
+    <img src="img.png" alt="Unemplyment Banner" style="width: 100%; max-width: 700px; border-radius: 10px;"/>
+</div>
+
 ---
 
 ## 1. Iris Flower Classification 🌸
